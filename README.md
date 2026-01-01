@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Movaliya</h1>
 <h3 align="center">A passionate Full Stack developer from Gujarat</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-movaliya&label=Profile%20views&color=0e75b6&style=flat" alt="jay-movaliya" /> </p>
-
 - 📫 How to reach me **jaymovaliya14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
