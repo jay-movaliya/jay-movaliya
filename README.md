@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Movaliya</h1>
-- 📫 Reach me at: [jaymovaliya14@gmail.com](mailto:jaymovaliya14@gmail.com)
+- 📫 Reach me at: <a href="mailto:jaymovaliya14@gmail.com">jaymovaliya14@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
